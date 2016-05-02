@@ -1,14 +1,14 @@
-angular
-	.module("ngClassifieds", ["ngMaterial"])
-	.config(function($mdThemingProvider) {
+(function() {
 
-		$mdThemingProvider.theme('default')
-			.primaryPalette('teal')
-			.accentPalette('orange');
+  "use strict";
 
-	})
-	.directive("helloWorld", function() {
-		return {
-			template: "<h1>{{ message }}</h1>"
-		}
-	});
+  angular
+    .module('ngClassifieds', ['ngMaterial'])
+    .config(function($mdThemingProvider) {
+      $mdThemingProvider.theme('default')
+        .primaryPalette('teal')
+        .accentPalette('orange');
+    });
+        
+})();
+

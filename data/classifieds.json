@@ -1,5 +1,5 @@
 [
-{
+  {
     "id":"1",
     "title":"20 Foot Equipment Trailer",
     "description":"2013 rainbow trailer 20 feet x 82 inch deck area, two 5,000 lb axels, electric brakes, two pull out ramps, break away box, spare tire.",
@@ -32,7 +32,7 @@
       "Clothing"
     ],
     "image":"http://canadagoose-jacket.weebly.com/uploads/9/2/3/3/9233177/9087323_orig.jpg",
-    "views":422
+    "views": 422
   },
   {
     "id":"3",
@@ -104,4 +104,4 @@
     "image":"http://images.buysellsearch.com/image/orig/8dfc4f6c5d411130d19dedd28d61bc2b/2009-dodge-caliber-se.jpg",
     "views":423
   }
-  ]
+]

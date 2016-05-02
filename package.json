@@ -1,20 +1,15 @@
 {
   "name": "ng-classifieds",
-  "version": "1.0.0",
+  "version": "0.0.0",
+  "description": "Code for the Ultimate Angular Course at Code College",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "author": "Ryan Chenkie",
+  "license": "MIT",
   "dependencies": {
-    "angular-aria": "^1.5.0",
-    "angular-material": "^1.0.6",
     "angular": "^1.5.0",
     "angular-animate": "^1.5.0",
-    "angular-messages": "^1.5.0",
-    "mdi": "^1.5.54"
-  },
-  "devDependencies": {},
-  "description": ""
+    "angular-aria": "^1.5.0",
+    "angular-material": "^0.11.4",
+    "mdi": "^1.4.57"
+  }
 }
